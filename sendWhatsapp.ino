@@ -6,7 +6,7 @@
 #define WIFI_PASSWORD "YOUR_WIFI_PASS"
 const String YOUR_PHONE = "5490000000000"; //Without +
 const String YOUR_APIKEY = "12345678"; //Your API KEY
-const String URL = "http://api.whatabot.net//whatsapp/sendMessage?text=";
+const String URL = "http://api.whatabot.net/whatsapp/sendMessage?text=";
 WiFiUDP ntpUDP;
 
 void setup() {
